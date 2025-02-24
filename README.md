@@ -85,7 +85,7 @@ _(Replace this with actual gameplay GIF or image)_
 ### Game Over Screen
 When the game ends, the message "GAME OVER" appears in the center of the screen.
 ## Credits 🙌
-- **Game Developed By**: [Your Name]()
+- **Game Developed By**: John Murphy
 - **Built Using**: Python's **`turtle` module**
 
 Feel free to contribute or fork the project to improve or expand it!
